@@ -1,6 +1,6 @@
 # ML Supercon
 
-This notebook explores machiine learning modeling of the excerpt from the SuperCON dataset published at [1] and included here.
+This notebook explores machine learning modeling of the excerpt from the SuperCON dataset published at [1] and included here.
 
 The aim is to predict a material's critical temperature from simple bulk properties.
 
